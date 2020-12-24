@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚫5⃣♓🅰R
 
 <!--
 **animanoir/animanoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I´m a software developer specialized in web, understanding 3D and reading about future machine-human interaction.
+
