@@ -1,4 +1,4 @@
-### ⚫5⃣♓🅰R
+### Óscar A. Montiel
 
 <!--
 **animanoir/animanoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I´m a software developer specialized in web, understanding 3D and reading about future machine-human interaction.
-
-<video width="100%" height="240" controls>
-  <source src="./faceTracking.mp4" type="video/mp4">
-</video>
+I´m a software developer specialized in web, understanding 3D and reading about future machine-human interaction philosophy.
