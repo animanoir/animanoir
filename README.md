@@ -1,4 +1,5 @@
-### Óscar A. Montiel
+# Óscar A. Montiel
+## animanoir.xyz
 
 <!--
 **animanoir/animanoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I´m a software developer specialized in web, understanding 3D and reading about future machine-human interaction philosophy.
+## I´m a software developer specialized in web, understanding 3D and reading about future machine-human interaction philosophy.
