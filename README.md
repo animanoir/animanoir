@@ -1,18 +1,17 @@
-## [animanoir.xyz](https://animanoir.xyz)
+# Óscar A. Montiel | Frontend Engineer, Software developer
 
-<!--
-**animanoir/animanoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![2016 me](https://assets0.ello.co/uploads/asset/attachment/7849211/ello-optimized-fcbfbec2.gif)
 
-Here are some ideas to get you started:
+I´m a software developer specialized in (front)web development. I´ve been working with **React** for the past 3 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### My current interests are:
 
-## I´m a software developer specialized in web, understanding 3D and reading about future machine-human interaction philosophy.
+- 3D in web with **Three.js**
+- Blockchain (mainly with Ethereum)
+- Human-machine interaction
+- Learning every nook & cranny of computer science and programming languages, so I´m open to learn anything I found useful or interesting.
+
+You can found me in any of these emails: **omontiel@animanoir.xyz**, *etherealflux94@gmail.com* and *oamontiel@protonmail.com*. And be sure to check my website/portfolio.
+
+### [animanoir.xyz](https://animanoir.xyz)
+[LinkedIn](https://www.linkedin.com/in/oscaramontiel/)
