@@ -8,7 +8,7 @@ I´m a software developer specialized in (front)web development. I´ve been work
 
 - 3D in web with **Three.js**
 - Blockchain (mainly with Ethereum)
-- Human-machine interaction
+- Computer philosophy
 - Learning every nook & cranny of computer science and programming languages, so I´m open to learn anything I found useful or interesting.
 
 You can found me in any of these emails: **omontiel@animanoir.xyz**, *etherealflux94@gmail.com* and *oamontiel@protonmail.com*. And be sure to check my website/portfolio.
