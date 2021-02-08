@@ -2,7 +2,7 @@
 
 ![2016 me](https://assets0.ello.co/uploads/asset/attachment/7849211/ello-optimized-fcbfbec2.gif)
 
-I´m a software developer specialized in (front)web development.
+Multimedia Developer, Front-end and Software Engineer focused in the creation of digital experiences to make life analogous again.
 
 ##### My current habilities are:
 
