@@ -17,7 +17,7 @@ Multimedia Developer, Front-end and Software Engineer focused in the creation of
 - Every nook & cranny of computer science and programming languages, so I´m open to learn anything I found useful or interesting.
 - Being creative and imaginative in everything.
 
-You can contact me via **omontiel@animanoir.xyz** or *etherealflux94@gmail.com* (adolescent email). Be sure to check my website/portfolio. 
+You can contact me via **etherealflux94@gmail.com**. Be sure to check my website/portfolio. 
 
 #### [animanoir.xyz](https://animanoir.xyz)
 #### [LinkedIn](https://www.linkedin.com/in/oscaramontiel/)
