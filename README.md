@@ -4,7 +4,7 @@
 
 ## Multimedia Developer, Front-end and Software Engineer focused in the creation of digital experiences to make life analogous again.
 
-##### My current habilities are:
+#### My current habilities are:
 
 - 3D interaction with **Three.js**
 - Kind of advanced **JavaScript**.
