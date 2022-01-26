@@ -1,6 +1,6 @@
-# Óscar A. Montiel | Front-end/Software Developer
-
 ![2016 me](https://assets0.ello.co/uploads/asset/attachment/7849211/ello-optimized-fcbfbec2.gif)
+
+# Óscar A. Montiel | Front-end/Software Developer
 
 Multimedia Developer, Front-end and Software Engineer focused in the creation of digital experiences to make life analogous again.
 
