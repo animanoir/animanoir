@@ -2,7 +2,7 @@
 
 # Óscar A. Montiel | Front-end/Software Developer
 
-Multimedia Developer, Front-end and Software Engineer focused in the creation of digital experiences to make life analogous again.
+## Multimedia Developer, Front-end and Software Engineer focused in the creation of digital experiences to make life analogous again.
 
 ##### My current habilities are:
 
