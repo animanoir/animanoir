@@ -1,1 +1,1 @@
-![2016 me](https://assets0.ello.co/uploads/asset/attachment/7849211/ello-optimized-fcbfbec2.gif)
+![2016 me](https://tinypic.host/images/2023/12/30/222---TMmiYYJ.gif)
